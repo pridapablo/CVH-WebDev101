@@ -25,7 +25,7 @@ Located in the `Rocketbook` directory, this project showcases another aspect of 
 To view these web pages, clone my repository, navigate to the project directory of your choice, and open the `index.html` file in your web browser.
 
 ```bash
-git clone (https://github.com/pridapablo/CVH-WebDev101.git)
+git clone https://github.com/pridapablo/CVH-WebDev101.git
 # Navigate to the Clapton project
 cd CVH-WebDev101/Clapton
 open index.html # Use the appropriate command based on your operating system
